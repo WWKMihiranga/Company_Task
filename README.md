@@ -16,8 +16,8 @@ Users can view details about a person and add new people to the list.
 - Dart SDK
 
 ### Installation
-1. Clone the repository: git clone <repository-url>
-2. Navigate to the project directory: cd <project-directory>
+1. Clone the repository: git clone ["Enter the repository url here"]
+2. Navigate to the project directory: cd [Enter the project-directory here]
 3. Get the dependencies: flutter pub get
 4. Running the Application: flutter run
 
