@@ -23,7 +23,6 @@ Users can view details about a person and add new people to the list.
 
 
 
-
 This structure should give you a solid foundation to build the application.
 If you have any questions or need further assistance, feel free to ask..!!!
 
